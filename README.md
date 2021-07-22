@@ -1,2 +1,2 @@
-# witpgh-jobapi-go
-Golang Mini Camp API Project
+# golang-job-api
+Golang Mini Camp API Project July 2021
